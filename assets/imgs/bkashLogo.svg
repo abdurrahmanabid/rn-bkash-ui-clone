@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="clip-bKash_Bird_Light_Grey">
+      <rect width="800" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="bKash_Bird_Light_Grey" data-name="bKash Bird_Light Grey" clip-path="url(#clip-bKash_Bird_Light_Grey)">
+    <rect width="800" height="800" fill="transparent"/>
+    <g id="Group_35038" data-name="Group 35038" transform="translate(-259.687 12.294)">
+      <path id="Path_533" data-name="Path 533" d="M283.264,38.29l46.463,208.782L633.662,93.2Z" transform="translate(267.197 332.191)" fill="#f3f3f3"/>
+      <path id="Path_534" data-name="Path 534" d="M367.09,15.98,283.459,318.1,622.367,371.11Z" transform="translate(269.731 42.51)" fill="#f3f3f3"/>
+      <path id="Path_535" data-name="Path 535" d="M262.9,12.706l362.37,43.278L539.59,366.26Z" transform="translate(2.74 0)" fill="#f3f3f3"/>
+      <path id="Path_536" data-name="Path 536" d="M262.686,17.074H303.1L416.353,161.823Z" transform="translate(0 56.71)" fill="#f3f3f3"/>
+      <path id="Path_537" data-name="Path 537" d="M406.921,205.79,301.478,60.048,471.9,29.463Z" transform="translate(503.708 217.576)" fill="#f3f3f3"/>
+      <path id="Path_538" data-name="Path 538" d="M544.667,75.359l10.745-32.553L289.51,177.841Z" transform="translate(348.294 390.831)" fill="#f3f3f3"/>
+      <path id="Path_539" data-name="Path 539" d="M384.222,38.879l55.419,249.466L274.92,422.265Z" transform="translate(158.848 339.845)" fill="#f3f3f3"/>
+      <path id="Path_540" data-name="Path 540" d="M312.475,102.38l96.721-1.621-69.883-71.2Z" transform="translate(646.5 218.846)" fill="#f3f3f3"/>
+    </g>
+  </g>
+</svg>
